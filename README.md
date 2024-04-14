@@ -7,8 +7,6 @@
 
 <br/>
 
-## TL;DR
-
 You can fork this repo to modify and make changes of your own.
 
 ## Built With
