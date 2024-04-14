@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1afc8ad6.css",
+    "main.js": "/static/js/main.c29aa0ee.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/Basavarj_resume_2024.pdf": "/static/media/Basavarj_resume_2024.33490cb1d45cb015f662.pdf",
+    "static/media/Wipro.png": "/static/media/Wipro.87854eea7225ce4459eb.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Dell.jpeg": "/static/media/Dell.5a25e0e723d7283cd658.jpeg",
+    "static/media/azure-data-fundamentals.png": "/static/media/azure-data-fundamentals.f12831ba05821e01bfba.png",
+    "static/media/Lynk-Co.jpeg": "/static/media/Lynk-Co.406024fd0719290e411b.jpeg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.6a132bdaed98e04df091.jpg",
+    "static/media/Honeywell.png": "/static/media/Honeywell.62459372139ab2d478f4.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.1afc8ad6.css.map": "/static/css/main.1afc8ad6.css.map",
+    "main.c29aa0ee.js.map": "/static/js/main.c29aa0ee.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1afc8ad6.css",
+    "static/js/main.c29aa0ee.js"
+  ]
+}
