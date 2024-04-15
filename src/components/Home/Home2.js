@@ -45,7 +45,7 @@ function Home2() {
               <p>
                 I excel in analyzing requirements, solving complex problems, and
                 integrating multiple products. My versatile skill set, and
-                domain knowledge make me asset in delivering successful
+                domain knowledge make me an asset in delivering successful
                 projects.
               </p>
               <br />

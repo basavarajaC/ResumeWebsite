@@ -27,7 +27,15 @@ function AboutCard() {
               <ImPointRight /> Playing badminton
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight />
+              <a
+                href="https://medium.com/@bsvrj9320"
+                target="_blank"
+                rel="noreferrer"
+                className="icon-colour"
+              >
+                Writing Tech Blogs
+              </a>
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling

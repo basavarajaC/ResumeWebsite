@@ -108,7 +108,7 @@ function NavBar() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Stories
+                <ImBlog style={{ marginBottom: "2px" }} /> My blogs
               </Nav.Link>
             </Nav.Item>
 
