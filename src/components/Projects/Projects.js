@@ -37,7 +37,11 @@ function Projects() {
               isBlog={false}
               title="Lynk and Co Cars"
               description1="Worked as Devops Lead."
-              description2="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description2=" Project is on the automotive sector, where Lynk and Co has a website,
+        mobile app for selling cars, sharing cars, and providing services to the
+        customers. The focus of the brand is on internet connectivity and
+        innovative purchasing models, targeting a young professional
+        demographic."
               demoLink="https://www.lynkco.com/en"
             />
           </Col>
@@ -48,7 +52,14 @@ function Projects() {
               isBlog={false}
               title="Honeywell Technologies Ltd."
               description1="Worked as Tech Lead."
-              description2="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description2="All Experion System network configuration for an FTE community needs to
+        be configured in Configuration Studio. Network configuration prior to
+        Experion R520 was done in Control Builder and had to be repeated across
+        multiple Experion clusters especially when there were more than one
+        Experion server clusters in the same FTE Community. With the
+        introduction of C300 (PCNT05), CN100, and Control HIVE, additional
+        network configuration is necessary to ensure further segregation of
+        supervisory traffic from control, IO, and hive management communication."
               demoLink="https://www.honeywell.com/"
             />
           </Col>
@@ -59,8 +70,8 @@ function Projects() {
               isBlog={false}
               title="Dell Technologies Ltd."
               description1="Worked as Team Lead."
-              description2="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description2="Planning Platform Configuration Management, also known as PPCM, is a Configuration management tool. The PPCM tool is used to view and maintain the master data attributes of Product, Customer, and Channel
+        hierarchies. The tool is also used by replenishment planners to maintain and view Fulfillment Center Site Assignments & DSI, Routing rules, and Routing lead times."
               demoLink="https://www.dell.com/"
             />
           </Col>
