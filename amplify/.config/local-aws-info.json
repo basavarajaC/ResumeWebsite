@@ -3,5 +3,10 @@
     "configLevel": "project",
     "useProfile": true,
     "profileName": "basavapp"
+  },
+  "prod": {
+    "configLevel": "project",
+    "useProfile": false,
+    "awsConfigFilePath": "/Users/basav/.amplify/awscloudformation/9vMLeqoTx8"
   }
 }

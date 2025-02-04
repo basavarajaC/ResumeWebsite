@@ -155,10 +155,10 @@
     "hostingS3AndCloudFront": {
       "Type": "AWS::CloudFormation::Stack",
       "Properties": {
-        "TemplateURL": "https://s3.amazonaws.com/amplify-basavresume-dev-46b1e-deployment/amplify-cfn-templates/hosting/template.json",
+        "TemplateURL": "https://s3.amazonaws.com/amplify-basavresume-prod-2c36f-deployment/amplify-cfn-templates/hosting/template.json",
         "Parameters": {
           "bucketName": "basavresume-20240414111018-hostingbucket",
-          "env": "dev"
+          "env": "prod"
         }
       }
     }
