@@ -1,18 +1,7 @@
-import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import CertificationCards from "./CertificationCards";
 import Particle from "../Particle";
 import azurefon from "../../Assets/azure-data-fundamentals.png";
-
-import {
-  SiRedis,
-  SiPython,
-  SiMicrosoftazure,
-  SiAmazonaws,
-  SiDatadog,
-  SiKubernetes,
-  SiAzuredevops,
-} from "react-icons/si";
 
 function Certifications() {
   return (
